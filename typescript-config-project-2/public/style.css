@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(255, 220, 143);
+}
+
+div{
+    margin: 0.5rem 0;
+}
+
+input[type="email"]{
+    width: 10rem;
+}
